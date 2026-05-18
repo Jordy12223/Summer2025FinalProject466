@@ -1,6 +1,4 @@
 # SpeakSafe
-
-## Overview
 SpeakSafe is a school-focused web application designed to help students safely and anonymously report bullying, harassment, and discrimination. The goal of the project is to create a secure environment where students can share concerns without fear of retaliation while still allowing school administrators to manage and respond to reports appropriately.
 
 ## Features
