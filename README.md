@@ -1,7 +1,7 @@
 # SpeakSafe
-## Overview
 
-### SpeakSafe is a school-focused web application designed to help students safely and anonymously report bullying, harassment, and discrimination. The goal of the project is to create a secure environment where students can share concerns without fear of retaliation while still allowing school administrators to manage and respond to reports appropriately.
+## Overview
+SpeakSafe is a school-focused web application designed to help students safely and anonymously report bullying, harassment, and discrimination. The goal of the project is to create a secure environment where students can share concerns without fear of retaliation while still allowing school administrators to manage and respond to reports appropriately.
 
 ## Features
 - Anonymous student reporting system
@@ -18,13 +18,13 @@
 4. Administrators can review and manage reports through a separate verified login system.
 
 ## Technologies Used
-### Website called ADALO
+Website called ADALO
 
 ## Purpose of the Project
-### The purpose of SpeakSafe is to explore how technology can be used to support student safety and create a more comfortable environment for reporting serious issues within schools and colleges.
+The purpose of SpeakSafe is to explore how technology can be used to support student safety and create a more comfortable environment for reporting serious issues within schools and colleges.
 
 ## Demo / Presentation
-## This project also includes a demonstration video. 
+This project also includes a demonstration video. 
 
 # Author
-## Developed by Jordan Stone
+Developed by Jordan Stone
