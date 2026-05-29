@@ -23,6 +23,7 @@ The purpose of SpeakSafe is to explore how technology can be used to support stu
 
 ## Demo / Presentation
 This project also includes a demonstration video. 
+[SpeakSafe App Video Demo](https://drive.google.com/file/d/1bPDn-mnuc7ZcbSjERLyz_Fb3ewi2khP5/view?usp=sharing)
 
 # Author
 Developed by Jordan Stone
